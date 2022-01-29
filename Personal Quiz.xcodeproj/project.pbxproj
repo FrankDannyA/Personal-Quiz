@@ -73,6 +73,7 @@
 				E5F8468F27A53C110068939A /* Controller */,
 				E5F8469227A53C360068939A /* Supporting files */,
 				E5F8467E27A27C300068939A /* Assets.xcassets */,
+				E5F8468327A27C300068939A /* Info.plist */,
 			);
 			path = "Personal Quiz";
 			sourceTree = "<group>";
@@ -112,7 +113,6 @@
 			children = (
 				E5F8467727A27C2E0068939A /* SceneDelegate.swift */,
 				E5F8467527A27C2E0068939A /* AppDelegate.swift */,
-				E5F8468327A27C300068939A /* Info.plist */,
 			);
 			path = "Supporting files";
 			sourceTree = "<group>";
